@@ -89,7 +89,7 @@ public class LargestRectangleArea {
 
 //
 //
-///** Second 2
+///** Second 2 apporach
 // * MaxHistogramWithNSRNSL
 // *
 // * This class provides a method to calculate the maximum rectangular area
